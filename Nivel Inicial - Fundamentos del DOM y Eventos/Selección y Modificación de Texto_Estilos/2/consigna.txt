@@ -1,0 +1,2 @@
+Cambiador de color de fondo: 
+Botón que altera el backgroundColor del body a un color aleatorio en hexadecimal.
